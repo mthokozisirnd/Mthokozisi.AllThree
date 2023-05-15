@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- User Data -->
+<Users>
+  <User>
+    <Id>10000000-0000-0000-0000-000000000001</Id>
+    <Name>George</Name>
+    <Surname>Foreman</Surname>
+    <Cellphone>0634289899</Cellphone>
+  </User>
+  <User>
+    <Id>20000000-0000-0000-0000-000000000001</Id>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Cellphone>4500990000</Cellphone>
+  </User>
+</Users>

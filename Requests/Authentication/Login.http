@@ -1,0 +1,10 @@
+
+@host=https://localhost:7001
+POST {{host}}/student/login
+Content-Type: application/json
+
+{
+    "email": "mthokozisi@exercisethree.africa",
+    "password": "Mthokozisi@123"
+
+}

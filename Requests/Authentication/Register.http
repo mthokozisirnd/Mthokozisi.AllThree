@@ -1,0 +1,12 @@
+
+@host=https://localhost:7001
+POST {{host}}/student/register
+Content-Type: application/json
+
+{
+    "firstName": "Mthokozisi",
+    "lastName": "Mtshali",
+    "email": "mthokozisi@exercisethree.africa",
+    "password": "Mthokozisi@123"
+
+}
